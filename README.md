@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
 | [1929-concatenation-of-array](https://github.com/surya-4409/leetcode_problem_solving/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,12 +38,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
