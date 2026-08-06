@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
