@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0189-rotate-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0680-valid-palindrome-ii) |
