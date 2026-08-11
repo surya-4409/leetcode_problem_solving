@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0189-rotate-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
