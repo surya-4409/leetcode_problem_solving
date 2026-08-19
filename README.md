@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
