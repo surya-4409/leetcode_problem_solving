@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0125-valid-palindrome) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0231-power-of-two) |
 ## Trie
