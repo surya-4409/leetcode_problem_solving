@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/surya-4409/leetcode_problem_solving/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
