@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0706-design-hashmap) |
+| [0901-online-stock-span](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0901-online-stock-span) |
 ## Hash Function
 |  |
 | ------- |
@@ -167,10 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
