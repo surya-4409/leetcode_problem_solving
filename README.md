@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0242-valid-anagram) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0901-online-stock-span) |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/surya-4409/leetcode_problem_solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
